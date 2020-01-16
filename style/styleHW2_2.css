@@ -1,0 +1,44 @@
+body {width: 960px;
+	margin: 0 auto;
+}
+
+.block1 {
+    background-color: orange;
+    width: 450px;
+    height: 50px;
+    margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	float: left;
+}
+.block2 {
+	background-color: orange;
+	width: 450px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	float: right;
+}
+.block3 {
+	background-color: yellow;
+	width: 940px;
+	height: 150px;
+	clear: both;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.block4, .block5, .block6 {
+	background-color: blue;
+	width: 300px;
+	height: 250px;
+	margin: 10px;
+	float: left;
+}
+.block7, .block8, .block9, .block10 {
+	background-color: grey;
+	width: 220px;
+	height: 180px;
+	margin: 10px;
+	float: left;
+}
