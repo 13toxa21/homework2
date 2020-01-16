@@ -1,0 +1,30 @@
+body {
+	width: 960px;
+	height: 760px;
+	margin: 0 auto;
+	border: 5px solid black;
+}
+.block1 {
+    background-color: red;
+    width: 570px;
+    height: 480px;
+	position: absolute;
+}
+.block2 {
+	background-color: green;
+	width: 570px;
+	height: 500px;
+	float: right;
+	margin-top: 260px;
+	
+	}
+.block3 {
+	background-color: blue;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 130px;
+	margin-left: 230px;
+}
+	
+	
