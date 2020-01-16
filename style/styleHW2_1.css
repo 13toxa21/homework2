@@ -1,0 +1,36 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+.tab1 {
+  width: 100%;
+  border-spacing: 10px 10px;
+}
+.tr1 {
+  background-color:orange;
+}
+.tr2 {
+  background-color: yellow;
+}
+.td1 {
+  padding: 30px;
+}
+.td2 {
+  padding: 125px;
+}
+.tab2 {
+  width: 100%;
+  border-spacing: 10px;
+}
+.t2td {
+  background-color: rgb(0, 89, 255);
+  padding: 100px;
+}
+.tab3 {
+  width: 100%;
+  border-spacing: 10px 10px;
+}
+.t3td {
+  background-color: gray;
+  padding: 72px;
+}
