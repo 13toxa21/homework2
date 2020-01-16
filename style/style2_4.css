@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+header {
+    width: 90%;
+    height: 15%;
+    border: 2px solid green;
+    border-bottom-left-radius: 50px 50px;
+    border-bottom-right-radius: 50px 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+aside {
+    width: 10%;
+    height: 600px;
+    position: fixed;
+    background-color: rgba(136, 255, 0, 0.5);
+    margin-top: 2px;
+    padding: 5px;
+}
+h4, h3 {
+    text-align: center;
+}
+.content {
+    position: relative;
+    width: 70%;
+    left: 15%;
+    margin-top: 2px;
+    text-align: justify;
+    margin-right: 5%;
+}
+.footer {
+    width: 90%;
+    height: 15%;
+    border: 2px solid green;
+    border-top-left-radius: 50px 50px;
+    border-top-right-radius: 50px 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 270px;
+    text-align: center;
+}
